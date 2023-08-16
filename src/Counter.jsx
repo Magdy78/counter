@@ -45,7 +45,8 @@ export default function Counter() {
                 <button
                   onClick={handleDecrement}
                   className="btn btn-danger ms-3"
-                >
+                >  
+                
                   Decrease
                 </button>
               </div>
